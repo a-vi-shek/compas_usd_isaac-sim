@@ -9,12 +9,14 @@ invoke >=0.14
 ipykernel
 ipython >=5.8
 isort
+lxml==4.9.4
 m2r
 nbsphinx
 pydocstyle
 pytest >=3.2
 sphinx_compas_theme >=0.15
 sphinx >=3.4
+tqdm==4.67.0
 twine
 wheel
 -e .
